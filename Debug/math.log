@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\administrator\source\repos\math\math\main.cpp(92): warning C4101: “cargo”: 未引用的局部变量
+c:\users\administrator\source\repos\math\math\main.cpp(383): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\math\math\main.cpp(511): warning C4018: “<”: 有符号/无符号不匹配
+  math.vcxproj -> C:\Users\Administrator\source\repos\math\Debug\math.exe
